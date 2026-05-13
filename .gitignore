@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+docs/
+AGENT.md
+.agent/
+.gemini/
